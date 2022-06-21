@@ -1,0 +1,22 @@
+.storybook-modal {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+}
+
+.storybook-modal--mini {
+  border: 4px solid black;
+}
+
+.storybook-modal--full {
+  width: 500px;
+  height: 500px;
+}
+
+.storybook-modal--show {
+  background-color: red;
+}
+
+.storybook-modal--noshow {
+  visibility: hidden;
+}
