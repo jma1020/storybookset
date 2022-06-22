@@ -24,6 +24,7 @@ FullModal.args = {
   show: true,
   onClose: () => console.log("닫기"),
   size: "full",
+  label: "모달입니다.",
 };
 
 export const MiniModal = Template.bind({});
